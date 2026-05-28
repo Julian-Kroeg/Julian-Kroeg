@@ -1,8 +1,8 @@
 # Julian Krög 👋
 Ich interessiere mich für eine Ausbildung zum Fachinformatiker in der Anwendungsentwicklung.
 
-Ich habe mich bereits in meiner Jugend für das erstellen von Programnmen interessiert
-und bringe mir aktuell eigenstädnig erste grundlegende Kenntnisse bei.
+Ich habe mich bereits in meiner Jugend für das Erstellen von Programmen interessiert
+und bringe mir aktuell eigenständig erste grundlegende Kenntnisse bei.
 
 ## Kenntnisse
 - Python (Grundlagen)
@@ -12,7 +12,7 @@ und bringe mir aktuell eigenstädnig erste grundlegende Kenntnisse bei.
 - Allgemeinwissenstest
 
 ## Motivation
-Beim erstellen meines ersten kleinen Programmes kamen natürlich Probleme auf. Nach einigen Lösungsversuchen konnte ich Erfolge erzielen. Als ich dann sah, dass das was ich eigenhändig gemacht hatte funktionierte, verspührte ich ein großes Glücksgefühl. Ich wollte weiter machen und mehr lernen. Dabei wurde mir schnell bewusst: dieser Fachbereich ist sehr umfangreich und komplex. Danach war mir klar, dass eine Ausbildung in diesem Fachbereich perfekt ist.
+Beim Erstellen meines ersten kleinen Programms kamen natürlich Probleme auf. Nach einigen Lösungsversuchen konnte ich Erfolge erzielen. Als ich dann sah dass das, was ich eigenhändig gemacht hatte funktionierte, verspürte ich ein großes Glücksgefühl. Ich wollte weitermachen und mehr lernen. Dabei wurde mir schnell bewusst: Dieser Fachbereich ist sehr umfangreich und komplex. Danach war mir klar, dass eine Ausbildung in diesem Fachbereich perfekt ist.
 
 
 
