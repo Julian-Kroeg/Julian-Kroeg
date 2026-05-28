@@ -12,7 +12,7 @@ und bringe mir aktuell eigenstädnig erste grundlegende Kenntnisse bei.
 - Allgemeinwissenstest
 
 ## Motivation
-Beim erstellen meines ersten kleinen Programmes kamen natürlich Probleme auf. Nach einigen Lösungsversuchen konnte ich Erfolge erzielen. ALs ich dann sah, dass das was ich eigenhändig gemacht hatte funktionierte, verspührte ich ein großes Glücksgefühl. Ich wollte weiter machen und mehr lernen. Dabei wurde mir schnell bewusst: dieser Fachbereich ist sehr umfangreich und komplex. Danach war mir klar, dass eine Ausbildung in diesem Fachbereich perfekt ist.
+Beim erstellen meines ersten kleinen Programmes kamen natürlich Probleme auf. Nach einigen Lösungsversuchen konnte ich Erfolge erzielen. Als ich dann sah, dass das was ich eigenhändig gemacht hatte funktionierte, verspührte ich ein großes Glücksgefühl. Ich wollte weiter machen und mehr lernen. Dabei wurde mir schnell bewusst: dieser Fachbereich ist sehr umfangreich und komplex. Danach war mir klar, dass eine Ausbildung in diesem Fachbereich perfekt ist.
 
 
 
