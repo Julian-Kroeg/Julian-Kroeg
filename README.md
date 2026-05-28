@@ -1,15 +1,19 @@
-## Hallo! 👋
-Mein Name ist Julian und komme aus der Nähe von Karlsruhe.
+# Julian Krög 👋
+Ich interessiere mich für eine Ausbildung zum Fachinformatiker in der Anwendungsentwicklung.
 
-Ich habe mich bereits in jungen Jahren dafür interessiert, wie Programme funktionieren.
+Ich habe mich bereits in meiner Jugend für das erstellen von Programnmen interessiert
+und bringe mir aktuell eigenstädnig erste grundlegende Kenntnisse bei.
 
-Beruflich hat es mich in den letzten Jahren jedoch in eine andere Richtung gelenkt.
+## Kenntnisse
+- Python (Grundlagen)
 
-Für mich persönlich hat sich dies jedoch als falsche Richtung herausgestellt.
+## Erste kleine Projekte
+- Zahlenratespiel
+- Allgemeinwissenstest
 
-Ich möchte nun mein noch junges Alter nutzen, um mich wieder in meinen ursprüngliche Interessen zu entwickeln.
+## Motivation
+Beim erstellen meines ersten kleinen Programmes kamen natürlich Probleme auf. Nach einigen Lösungsversuchen konnte ich Erfolge erzielen. ALs ich dann sah, dass das was ich eigenhändig gemacht hatte funktionierte, verspührte ich ein großes Glücksgefühl. Ich wollte weiter machen und mehr lernen. Dabei wurde mir schnell bewusst: dieser Fachbereich ist sehr umfangreich und komplex. Danach war mir klar, dass eine Ausbildung in diesem Fachbereich perfekt ist.
 
-Hierfür habe ich mich bereits selbst mit dem erstellen kleinerer Programmen beschäftigt.
 
 
 <!--
