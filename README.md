@@ -5,7 +5,7 @@ Ich habe mich bereits in meiner Jugend für das Erstellen von Programmen interes
 und bringe mir aktuell eigenständig erste grundlegende Kenntnisse bei.
 
 ## Kenntnisse
-- Python (Grundlagen)
+- Python (einfache Grundlagen)
 
 ## Erste kleine Projekte
 - [Zahlenratespiel](https://github.com/Julian-Kroeg/Ratespiel)
